@@ -1,0 +1,16 @@
+h1 {
+  color: darkcyan;
+    font-size: 30;
+    font-family: Verdana, Geneva, sans-serif;
+ background: -webkit-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+  background: -o-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+  background: -moz-linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+  background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);   
+}p {
+  color: black;
+     font-family: Verdana, Geneva, sans-serif;
+}li{
+     font-family: Verdana, Geneva, sans-serif;
+     border-top:1px solid black;
+      border-bottom:1px solid black;
+}
